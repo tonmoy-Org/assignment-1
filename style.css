@@ -1,0 +1,289 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header */
+.header {
+    background-image: url('new-year-new-me-main/images/banner/banner1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 767px;
+}
+
+.header-div {
+    padding: 210px 0;
+    width: 494px;
+    text-align: right;
+    margin: 0 auto;
+    padding-left: 600px;
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 65px;
+    height: 228px;
+    padding-bottom: 50px;
+}
+
+.header-discription {
+    font-weight: 400;
+    font-size: 16px;
+    height: 78px;
+    margin-bottom: 20px;
+    color: #444343;
+}
+
+.primary-button {
+    height: 60px;
+    background: #FF5959;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 15px;
+    border: none;
+}
+
+/* main section */
+.main-section {
+    display: flex;
+    margin-top: 120px;
+}
+
+.main-section-img {
+    width: 500px;
+    height: 600px;
+    margin-left: 290px;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 40px;
+    width: 288px;
+    height: 94px;
+    margin-bottom: 24px;
+}
+
+.section-discription {
+    font-weight: 400;
+    font-size: 16px;
+    width: 416px;
+    margin-bottom: 16px;
+}
+
+.main-section-div {
+    margin-left: 90px;
+    margin-top: 150px;
+}
+
+/* main-section-web-div */
+.main-section-web-dev {
+    display: flex;
+    margin-top: 80px;
+}
+
+.main-section-web-div {
+    margin-left: 280px;
+    margin-top: 30px;
+    margin-right: 120px;
+    padding-top: 100px;
+}
+
+.section-web-title {
+    font-weight: 700;
+    font-size: 40px;
+    width: 288px;
+    height: 94px;
+
+}
+
+.section-web-discription {
+    margin-top: 150px;
+    font-weight: 400;
+    font-size: 16px;
+    width: 416px;
+    margin-bottom: 16px;
+}
+
+.main-section-web-img {
+    width: 500px;
+    height: 600px;
+    padding-top: ;
+}
+
+/* main section-2 */
+.main-section-2 {
+    margin-top: 120px;
+}
+
+.main-section-2-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.main-section-container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.section-container {
+    margin: 20px 30px;
+}
+
+.container-head {
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+
+}
+
+.container-discription {
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #737272;
+}
+
+.img-web {
+    margin: 5px 90px;
+}
+
+.img-java {
+    margin: 5px 40px;
+}
+
+.img-smoke {
+    margin: 5px 60px;
+}
+
+.img-ecommerce {
+    margin: 5px 40px;
+}
+
+/* main section-3 */
+.main-section-3 {
+    width: 1020px;
+    height: 260px;
+    margin: 130px 250px;
+    border-radius: 8px;
+    background-image: url('/new-year-new-me-main/images/watch.png');
+    background-size: cover;
+}
+
+.main-section-3-div {
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    height: 100%;
+    padding-left: 64px;
+}
+
+.main-section-3-title {
+    font-weight: 700;
+    font-size: 40px;
+    width: 459px;
+    height: 94px;
+    color: #FFFFFF;
+    padding-top: 40px;
+    padding-bottom: 24px;
+}
+
+.primary-button-2 {
+    height: 60px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 15px;
+    border: none;
+}
+
+/* footer */
+.footer {
+    background-color: black;
+}
+
+.footer-div {
+    display: flex;
+}
+
+.footer-container {
+    color: #FFFFFF;
+    margin: 130px;
+}
+
+.footer-container-2 {
+    color: #FFFFFF;
+    margin: 130px 200px;
+
+}
+
+.footer-title {
+    font-weight: 700;
+    font-size: 45px;
+    width: 148px;
+    height: 53px;
+    padding-bottom: 16px;
+}
+
+.footer-discrption {
+    font-weight: 400;
+    font-size: 16px;
+    width: 485px;
+    height: 78px;
+    padding-bottom: 24px;
+    color: #FFFFFF;
+}
+
+.footer-discription-email {
+    padding-top: 16px;
+    padding-bottom: 32px;
+}
+
+.footer-img {
+    display: flex;
+    padding-top: 32px;
+}
+
+.footer-icon-1 {
+    padding-left: 17px;
+}
+
+.footer-icon-2 {
+    padding-left: 17px;
+}
+
+.footer-container-2-title {
+    font-weight: 600;
+    font-size: 25px;
+    width: 123px;
+    height: 29px;
+    padding-bottom: 31px;
+}
+
+.footer-container-2-email {
+    width: 325px;
+    height: 64px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding-left: 21px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    background-color: black;
+    border: 2px solid white;
+}
+
+.footer-button {
+    height: 60px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 10px 15px;
+    border: none;
+    color: #F15B22;
+}
